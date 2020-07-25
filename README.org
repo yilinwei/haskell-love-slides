@@ -1,0 +1,11 @@
+* Slides
+
+** Quickstart
+
+After starting ~nix-shell~ in the directory run the following command.
+
+#+BEGIN_SRC sh
+raco pkg install slideshow
+#+END_SRC
+
+You can start the slideshow with the ~start~ command in the shell.
